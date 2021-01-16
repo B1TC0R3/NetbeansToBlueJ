@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\thoma\source\repos\ProjectConverter\ProjectConverter\main.cpp(81,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert.
+  651 of 745 functions (87.4%) were compiled, the rest were copied from previous compilation.
+    12 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  ProjectConverter.vcxproj -> C:\Users\thoma\source\repos\ProjectConverter\Release\ProjectConverter.exe

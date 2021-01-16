@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\thoma\source\repos\ProjectConverter\ProjectConverter\main.cpp(81,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  ProjectConverter.vcxproj -> C:\Users\thoma\source\repos\ProjectConverter\Debug\ProjectConverter.exe
